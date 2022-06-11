@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-efs
+friendly_name: EFS (Elastic File System)
+description: Creates a network file system using AWS EFS (Elastic File System).
+category: datastore
+subcategory: ""
+provider_types:
+    - aws
+platform: efs
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true

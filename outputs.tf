@@ -9,6 +9,6 @@ output "efs_arn" {
 }
 
 output "security_group_id" {
-  value = aws_security_group.this.id
+  value       = aws_security_group.this.id
   description = "string ||| ID of the security group attached to the file system"
 }
