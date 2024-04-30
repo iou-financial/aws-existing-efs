@@ -1,7 +1,7 @@
-org_name: nullstone
-name: aws-efs
-friendly_name: EFS (Elastic File System)
-description: Creates a network file system using AWS EFS (Elastic File System).
+org_name: iou-financial
+name: aws-existing-efs
+friendly_name: AWS Existing EFS (Elastic File System)
+description: Connect an existing a network file system using AWS EFS (Elastic File System).
 category: datastore
 subcategory: ""
 provider_types:
