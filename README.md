@@ -1,2 +1,2 @@
 # aws-efs
-Nullstone datastore creating a network file system using AWS EFS (Elastic File System)
+Nullstone datastore connecting to a existing AWS EFS (Elastic File System)
